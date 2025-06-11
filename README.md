@@ -1,6 +1,7 @@
+404 Error not found
 
-<<<<<<<<< Temporary merge branch 1
-=========
+![rex2](https://github.com/user-attachments/assets/1ac0c2bf-73d6-4c69-80b0-bc082d4e0f4c)
+
 # WEBSERV
 
 ### SERVER
